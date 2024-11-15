@@ -86,7 +86,7 @@ document.addEventListener("DOMContentLoaded", function () {
                             </div>
                         </div>
                     `;
-          productList.appendChild(card);
+          productList.appendChild(card); //test
         });
       });
   }
